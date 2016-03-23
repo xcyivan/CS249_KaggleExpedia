@@ -1,0 +1,9 @@
+Our project contains 2 code files: Project.ipynb and Feature Analysis.ipynb
+
+Ipython Notebook, sklearn and some other common python packages are needed to run the code. 
+
+Project.ipynb takes hours to run and may occur kernel interrupt while running because of large dataset and large number of estimators in classifiers.
+
+If you have any questions, feel free to contact us.
+
+Team Madata
